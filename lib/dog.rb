@@ -4,5 +4,11 @@ class Dog
     @name = name
     @breed =breed
   end
+  
+  def name
+    @name
+  end
+  
+  def name=(value)
 end
 
