@@ -6,3 +6,5 @@ class Dog
 end
 
 dog = Dog.new(name)
+
+puts dog 
