@@ -10,5 +10,7 @@ class Dog
   end
   
   def name=(value)
+    @name = value
+  end
 end
 
